@@ -1,0 +1,31 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "PNGImages/010.jpg"
+Image size (X x Y x C) : 1280 x 853 x 3
+Database : "bzhang70 database"
+Objects with ground truth : 5 { "car" "car" "car" "bus" "car" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("car")
+Original label for object 1 "car" : ""
+Bounding box for object 1 "car" (Xmin, Ymin) - (Xmax, Ymax) : (229, 400) - (444, 596)
+
+# Details for object 2 ("car")
+Original label for object 2 "car" : ""
+Bounding box for object 2 "car" (Xmin, Ymin) - (Xmax, Ymax) : (418, 412) - (527, 524)
+
+# Details for object 3 ("car")
+Original label for object 3 "car" : ""
+Bounding box for object 3 "car" (Xmin, Ymin) - (Xmax, Ymax) : (515, 422) - (580, 474)
+
+# Details for object 4 ("bus")
+Original label for object 4 "bus" : ""
+Bounding box for object 4 "bus" (Xmin, Ymin) - (Xmax, Ymax) : (621, 168) - (1117, 663)
+
+# Details for object 5 ("car")
+Original label for object 5 "car" : ""
+Bounding box for object 5 "car" (Xmin, Ymin) - (Xmax, Ymax) : (1132, 429) - (1294, 591)

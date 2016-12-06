@@ -1,0 +1,19 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "PNGImages/018.jpg"
+Image size (X x Y x C) : 2611 x 1741 x 3
+Database : "bzhang70 database"
+Objects with ground truth : 2 { "aeroplane" "boat" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("aeroplane")
+Original label for object 1 "aeroplane" : ""
+Bounding box for object 1 "aeroplane" (Xmin, Ymin) - (Xmax, Ymax) : (1219, 145) - (1477, 414)
+
+# Details for object 2 ("boat")
+Original label for object 2 "boat" : ""
+Bounding box for object 2 "boat" (Xmin, Ymin) - (Xmax, Ymax) : (671, 1033) - (1724, 1302)

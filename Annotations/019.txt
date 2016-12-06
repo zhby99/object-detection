@@ -1,0 +1,39 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "PNGImages/019.jpg"
+Image size (X x Y x C) : 3184 x 2248 x 3
+Database : "bzhang70 database"
+Objects with ground truth : 7 { "cow" "sheep" "sheep" "sheep" "sheep" "sheep" "sheep" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("cow")
+Original label for object 1 "cow" : ""
+Bounding box for object 1 "cow" (Xmin, Ymin) - (Xmax, Ymax) : (841, 843) - (1956, 1662)
+
+# Details for object 2 ("sheep")
+Original label for object 2 "sheep" : ""
+Bounding box for object 2 "sheep" (Xmin, Ymin) - (Xmax, Ymax) : (364, 1282) - (606, 1655)
+
+# Details for object 3 ("sheep")
+Original label for object 3 "sheep" : ""
+Bounding box for object 3 "sheep" (Xmin, Ymin) - (Xmax, Ymax) : (686, 1288) - (907, 1564)
+
+# Details for object 4 ("sheep")
+Original label for object 4 "sheep" : ""
+Bounding box for object 4 "sheep" (Xmin, Ymin) - (Xmax, Ymax) : (1956, 1334) - (2176, 1609)
+
+# Details for object 5 ("sheep")
+Original label for object 5 "sheep" : ""
+Bounding box for object 5 "sheep" (Xmin, Ymin) - (Xmax, Ymax) : (2168, 1301) - (2521, 1616)
+
+# Details for object 6 ("sheep")
+Original label for object 6 "sheep" : ""
+Bounding box for object 6 "sheep" (Xmin, Ymin) - (Xmax, Ymax) : (2601, 1236) - (3012, 1590)
+
+# Details for object 7 ("sheep")
+Original label for object 7 "sheep" : ""
+Bounding box for object 7 "sheep" (Xmin, Ymin) - (Xmax, Ymax) : (2975, 1341) - (3181, 1603)

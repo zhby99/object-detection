@@ -1,0 +1,27 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "PNGImages/001.jpg"
+Image size (X x Y x C) : 1900 x 1080 x 3
+Database : "bzhang70 database"
+Objects with ground truth : 4 { "sofa" "sofa" "chair" "chair" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("sofa")
+Original label for object 1 "sofa" : ""
+Bounding box for object 1 "sofa" (Xmin, Ymin) - (Xmax, Ymax) : (51, 588) - (756, 1082)
+
+# Details for object 2 ("sofa")
+Original label for object 2 "sofa" : ""
+Bounding box for object 2 "sofa" (Xmin, Ymin) - (Xmax, Ymax) : (454, 440) - (1097, 818)
+
+# Details for object 3 ("chair")
+Original label for object 3 "chair" : ""
+Bounding box for object 3 "chair" (Xmin, Ymin) - (Xmax, Ymax) : (1461, 405) - (1596, 581)
+
+# Details for object 4 ("chair")
+Original label for object 4 "chair" : ""
+Bounding box for object 4 "chair" (Xmin, Ymin) - (Xmax, Ymax) : (1723, 411) - (1868, 600)

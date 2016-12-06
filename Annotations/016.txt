@@ -1,0 +1,39 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "PNGImages/016.jpg"
+Image size (X x Y x C) : 2048 x 1536 x 3
+Database : "bzhang70 database"
+Objects with ground truth : 7 { "train" "bus" "car" "car" "car" "person" "person" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("train")
+Original label for object 1 "train" : ""
+Bounding box for object 1 "train" (Xmin, Ymin) - (Xmax, Ymax) : (239, 724) - (612, 1198)
+
+# Details for object 2 ("bus")
+Original label for object 2 "bus" : ""
+Bounding box for object 2 "bus" (Xmin, Ymin) - (Xmax, Ymax) : (918, 760) - (1452, 1180)
+
+# Details for object 3 ("car")
+Original label for object 3 "car" : ""
+Bounding box for object 3 "car" (Xmin, Ymin) - (Xmax, Ymax) : (1433, 966) - (1579, 1145)
+
+# Details for object 4 ("car")
+Original label for object 4 "car" : ""
+Bounding box for object 4 "car" (Xmin, Ymin) - (Xmax, Ymax) : (1555, 983) - (1805, 1203)
+
+# Details for object 5 ("car")
+Original label for object 5 "car" : ""
+Bounding box for object 5 "car" (Xmin, Ymin) - (Xmax, Ymax) : (1787, 988) - (2051, 1252)
+
+# Details for object 6 ("person")
+Original label for object 6 "person" : ""
+Bounding box for object 6 "person" (Xmin, Ymin) - (Xmax, Ymax) : (682, 970) - (777, 1207)
+
+# Details for object 7 ("person")
+Original label for object 7 "person" : ""
+Bounding box for object 7 "person" (Xmin, Ymin) - (Xmax, Ymax) : (781, 966) - (885, 1216)
