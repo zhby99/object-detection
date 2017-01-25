@@ -1,0 +1,23 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "PNGImages/017.jpg"
+Image size (X x Y x C) : 2929 x 2197 x 3
+Database : "bzhang70 database"
+Objects with ground truth : 3 { "bicycle" "bicycle" "bicycle" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("bicycle")
+Original label for object 1 "bicycle" : ""
+Bounding box for object 1 "bicycle" (Xmin, Ymin) - (Xmax, Ymax) : (598, 1048) - (1293, 2041)
+
+# Details for object 2 ("bicycle")
+Original label for object 2 "bicycle" : ""
+Bounding box for object 2 "bicycle" (Xmin, Ymin) - (Xmax, Ymax) : (1239, 1054) - (1772, 2105)
+
+# Details for object 3 ("bicycle")
+Original label for object 3 "bicycle" : ""
+Bounding box for object 3 "bicycle" (Xmin, Ymin) - (Xmax, Ymax) : (2130, 1016) - (2818, 2053)

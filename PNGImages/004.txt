@@ -1,0 +1,27 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "PNGImages/004.jpg"
+Image size (X x Y x C) : 1600 x 1200 x 3
+Database : "bzhang70 database"
+Objects with ground truth : 4 { "refrigerator" "oven" "toaster" "microwave" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("refrigerator")
+Original label for object 1 "refrigerator" : ""
+Bounding box for object 1 "refrigerator" (Xmin, Ymin) - (Xmax, Ymax) : (120, 391) - (537, 908)
+
+# Details for object 2 ("oven")
+Original label for object 2 "oven" : ""
+Bounding box for object 2 "oven" (Xmin, Ymin) - (Xmax, Ymax) : (625, 601) - (1071, 1178)
+
+# Details for object 3 ("toaster")
+Original label for object 3 "toaster" : ""
+Bounding box for object 3 "toaster" (Xmin, Ymin) - (Xmax, Ymax) : (1071, 642) - (1293, 789)
+
+# Details for object 4 ("microwave")
+Original label for object 4 "microwave" : ""
+Bounding box for object 4 "microwave" (Xmin, Ymin) - (Xmax, Ymax) : (1315, 639) - (1562, 835)
