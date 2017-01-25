@@ -1,19 +1,27 @@
 # PASCAL Annotation Version 1.00
 
 Image filename : "PNGImages/018.jpg"
-Image size (X x Y x C) : 2611 x 1741 x 3
+Image size (X x Y x C) : 4032 x 2688 x 3
 Database : "bzhang70 database"
-Objects with ground truth : 2 { "aeroplane" "boat" }
+Objects with ground truth : 4 { "keyboard" "chair" "bicycle" "bottle" }
 
 # Note that there might be other objects in the image
 # for which ground truth data has not been provided.
 
 # Top left pixel co-ordinates : (1, 1)
 
-# Details for object 1 ("aeroplane")
-Original label for object 1 "aeroplane" : ""
-Bounding box for object 1 "aeroplane" (Xmin, Ymin) - (Xmax, Ymax) : (1219, 145) - (1477, 414)
+# Details for object 1 ("keyboard")
+Original label for object 1 "keyboard" : ""
+Bounding box for object 1 "keyboard" (Xmin, Ymin) - (Xmax, Ymax) : (581, 992) - (1148, 1149)
 
-# Details for object 2 ("boat")
-Original label for object 2 "boat" : ""
-Bounding box for object 2 "boat" (Xmin, Ymin) - (Xmax, Ymax) : (671, 1033) - (1724, 1302)
+# Details for object 2 ("chair")
+Original label for object 2 "chair" : ""
+Bounding box for object 2 "chair" (Xmin, Ymin) - (Xmax, Ymax) : (-41, 859) - (971, 2316)
+
+# Details for object 3 ("bicycle")
+Original label for object 3 "bicycle" : ""
+Bounding box for object 3 "bicycle" (Xmin, Ymin) - (Xmax, Ymax) : (1241, 702) - (2932, 1909)
+
+# Details for object 4 ("bottle")
+Original label for object 4 "bottle" : ""
+Bounding box for object 4 "bottle" (Xmin, Ymin) - (Xmax, Ymax) : (3814, 545) - (4037, 874)

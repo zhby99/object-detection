@@ -1,39 +1,19 @@
 # PASCAL Annotation Version 1.00
 
 Image filename : "PNGImages/013.jpg"
-Image size (X x Y x C) : 2100 x 1750 x 3
+Image size (X x Y x C) : 2048 x 1365 x 3
 Database : "bzhang70 database"
-Objects with ground truth : 7 { "person" "dog" "person" "dog" "person" "person" "person" }
+Objects with ground truth : 2 { "bicycle" "bicycle" }
 
 # Note that there might be other objects in the image
 # for which ground truth data has not been provided.
 
 # Top left pixel co-ordinates : (1, 1)
 
-# Details for object 1 ("person")
-Original label for object 1 "person" : ""
-Bounding box for object 1 "person" (Xmin, Ymin) - (Xmax, Ymax) : (22, 146) - (463, 1483)
+# Details for object 1 ("bicycle")
+Original label for object 1 "bicycle" : ""
+Bounding box for object 1 "bicycle" (Xmin, Ymin) - (Xmax, Ymax) : (701, 508) - (1173, 850)
 
-# Details for object 2 ("dog")
-Original label for object 2 "dog" : ""
-Bounding box for object 2 "dog" (Xmin, Ymin) - (Xmax, Ymax) : (588, 983) - (1043, 1712)
-
-# Details for object 3 ("person")
-Original label for object 3 "person" : ""
-Bounding box for object 3 "person" (Xmin, Ymin) - (Xmax, Ymax) : (1145, 69) - (1871, 1207)
-
-# Details for object 4 ("dog")
-Original label for object 4 "dog" : ""
-Bounding box for object 4 "dog" (Xmin, Ymin) - (Xmax, Ymax) : (1334, 957) - (1982, 1687)
-
-# Details for object 5 ("person")
-Original label for object 5 "person" : ""
-Bounding box for object 5 "person" (Xmin, Ymin) - (Xmax, Ymax) : (-12, 8) - (211, 462)
-
-# Details for object 6 ("person")
-Original label for object 6 "person" : ""
-Bounding box for object 6 "person" (Xmin, Ymin) - (Xmax, Ymax) : (603, 222) - (748, 493)
-
-# Details for object 7 ("person")
-Original label for object 7 "person" : ""
-Bounding box for object 7 "person" (Xmin, Ymin) - (Xmax, Ymax) : (893, 258) - (1043, 671)
+# Details for object 2 ("bicycle")
+Original label for object 2 "bicycle" : ""
+Bounding box for object 2 "bicycle" (Xmin, Ymin) - (Xmax, Ymax) : (1112, 576) - (1626, 1260)

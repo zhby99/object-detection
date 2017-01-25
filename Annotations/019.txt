@@ -1,39 +1,43 @@
 # PASCAL Annotation Version 1.00
 
 Image filename : "PNGImages/019.jpg"
-Image size (X x Y x C) : 3184 x 2248 x 3
+Image size (X x Y x C) : 2304 x 3072 x 3
 Database : "bzhang70 database"
-Objects with ground truth : 7 { "cow" "sheep" "sheep" "sheep" "sheep" "sheep" "sheep" }
+Objects with ground truth : 8 { "bicycle" "parkingmeter" "car" "car" "car" "car" "car" "person" }
 
 # Note that there might be other objects in the image
 # for which ground truth data has not been provided.
 
 # Top left pixel co-ordinates : (1, 1)
 
-# Details for object 1 ("cow")
-Original label for object 1 "cow" : ""
-Bounding box for object 1 "cow" (Xmin, Ymin) - (Xmax, Ymax) : (841, 843) - (1956, 1662)
+# Details for object 1 ("bicycle")
+Original label for object 1 "bicycle" : ""
+Bounding box for object 1 "bicycle" (Xmin, Ymin) - (Xmax, Ymax) : (157, 936) - (2174, 2181)
 
-# Details for object 2 ("sheep")
-Original label for object 2 "sheep" : ""
-Bounding box for object 2 "sheep" (Xmin, Ymin) - (Xmax, Ymax) : (364, 1282) - (606, 1655)
+# Details for object 2 ("parkingmeter")
+Original label for object 2 "parkingmeter" : ""
+Bounding box for object 2 "parkingmeter" (Xmin, Ymin) - (Xmax, Ymax) : (863, 274) - (1251, 2119)
 
-# Details for object 3 ("sheep")
-Original label for object 3 "sheep" : ""
-Bounding box for object 3 "sheep" (Xmin, Ymin) - (Xmax, Ymax) : (686, 1288) - (907, 1564)
+# Details for object 3 ("car")
+Original label for object 3 "car" : ""
+Bounding box for object 3 "car" (Xmin, Ymin) - (Xmax, Ymax) : (1389, 292) - (2334, 1348)
 
-# Details for object 4 ("sheep")
-Original label for object 4 "sheep" : ""
-Bounding box for object 4 "sheep" (Xmin, Ymin) - (Xmax, Ymax) : (1956, 1334) - (2176, 1609)
+# Details for object 4 ("car")
+Original label for object 4 "car" : ""
+Bounding box for object 4 "car" (Xmin, Ymin) - (Xmax, Ymax) : (948, 68) - (2015, 471)
 
-# Details for object 5 ("sheep")
-Original label for object 5 "sheep" : ""
-Bounding box for object 5 "sheep" (Xmin, Ymin) - (Xmax, Ymax) : (2168, 1301) - (2521, 1616)
+# Details for object 5 ("car")
+Original label for object 5 "car" : ""
+Bounding box for object 5 "car" (Xmin, Ymin) - (Xmax, Ymax) : (2020, 32) - (2355, 417)
 
-# Details for object 6 ("sheep")
-Original label for object 6 "sheep" : ""
-Bounding box for object 6 "sheep" (Xmin, Ymin) - (Xmax, Ymax) : (2601, 1236) - (3012, 1590)
+# Details for object 6 ("car")
+Original label for object 6 "car" : ""
+Bounding box for object 6 "car" (Xmin, Ymin) - (Xmax, Ymax) : (-29, 292) - (943, 883)
 
-# Details for object 7 ("sheep")
-Original label for object 7 "sheep" : ""
-Bounding box for object 7 "sheep" (Xmin, Ymin) - (Xmax, Ymax) : (2975, 1341) - (3181, 1603)
+# Details for object 7 ("car")
+Original label for object 7 "car" : ""
+Bounding box for object 7 "car" (Xmin, Ymin) - (Xmax, Ymax) : (-61, 775) - (906, 2029)
+
+# Details for object 8 ("person")
+Original label for object 8 "person" : ""
+Bounding box for object 8 "person" (Xmin, Ymin) - (Xmax, Ymax) : (263, 77) - (380, 318)

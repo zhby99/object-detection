@@ -1,27 +1,27 @@
 # PASCAL Annotation Version 1.00
 
 Image filename : "PNGImages/001.jpg"
-Image size (X x Y x C) : 1900 x 1080 x 3
+Image size (X x Y x C) : 1600 x 1200 x 3
 Database : "bzhang70 database"
-Objects with ground truth : 4 { "sofa" "sofa" "chair" "chair" }
+Objects with ground truth : 4 { "oven" "microwave" "sink" "glass" }
 
 # Note that there might be other objects in the image
 # for which ground truth data has not been provided.
 
 # Top left pixel co-ordinates : (1, 1)
 
-# Details for object 1 ("sofa")
-Original label for object 1 "sofa" : ""
-Bounding box for object 1 "sofa" (Xmin, Ymin) - (Xmax, Ymax) : (51, 588) - (756, 1082)
+# Details for object 1 ("oven")
+Original label for object 1 "oven" : ""
+Bounding box for object 1 "oven" (Xmin, Ymin) - (Xmax, Ymax) : (522, 135) - (968, 856)
 
-# Details for object 2 ("sofa")
-Original label for object 2 "sofa" : ""
-Bounding box for object 2 "sofa" (Xmin, Ymin) - (Xmax, Ymax) : (454, 440) - (1097, 818)
+# Details for object 2 ("microwave")
+Original label for object 2 "microwave" : ""
+Bounding box for object 2 "microwave" (Xmin, Ymin) - (Xmax, Ymax) : (183, 632) - (537, 852)
 
-# Details for object 3 ("chair")
-Original label for object 3 "chair" : ""
-Bounding box for object 3 "chair" (Xmin, Ymin) - (Xmax, Ymax) : (1461, 405) - (1596, 581)
+# Details for object 3 ("sink")
+Original label for object 3 "sink" : ""
+Bounding box for object 3 "sink" (Xmin, Ymin) - (Xmax, Ymax) : (1285, 611) - (1610, 705)
 
-# Details for object 4 ("chair")
-Original label for object 4 "chair" : ""
-Bounding box for object 4 "chair" (Xmin, Ymin) - (Xmax, Ymax) : (1723, 411) - (1868, 600)
+# Details for object 4 ("glass")
+Original label for object 4 "glass" : ""
+Bounding box for object 4 "glass" (Xmin, Ymin) - (Xmax, Ymax) : (1012, 702) - (1112, 821)

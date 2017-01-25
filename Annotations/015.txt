@@ -1,35 +1,23 @@
 # PASCAL Annotation Version 1.00
 
 Image filename : "PNGImages/015.jpg"
-Image size (X x Y x C) : 1120 x 750 x 3
+Image size (X x Y x C) : 3648 x 2432 x 3
 Database : "bzhang70 database"
-Objects with ground truth : 6 { "tvmonitor" "diningtable" "chair" "sofa" "sofa" "chair" }
+Objects with ground truth : 3 { "car" "car" "bicycle" }
 
 # Note that there might be other objects in the image
 # for which ground truth data has not been provided.
 
 # Top left pixel co-ordinates : (1, 1)
 
-# Details for object 1 ("tvmonitor")
-Original label for object 1 "tvmonitor" : ""
-Bounding box for object 1 "tvmonitor" (Xmin, Ymin) - (Xmax, Ymax) : (386, 76) - (603, 231)
+# Details for object 1 ("car")
+Original label for object 1 "car" : ""
+Bounding box for object 1 "car" (Xmin, Ymin) - (Xmax, Ymax) : (114, 983) - (543, 1266)
 
-# Details for object 2 ("diningtable")
-Original label for object 2 "diningtable" : ""
-Bounding box for object 2 "diningtable" (Xmin, Ymin) - (Xmax, Ymax) : (505, 417) - (830, 605)
+# Details for object 2 ("car")
+Original label for object 2 "car" : ""
+Bounding box for object 2 "car" (Xmin, Ymin) - (Xmax, Ymax) : (2526, 947) - (3342, 1273)
 
-# Details for object 3 ("chair")
-Original label for object 3 "chair" : ""
-Bounding box for object 3 "chair" (Xmin, Ymin) - (Xmax, Ymax) : (915, 406) - (1130, 686)
-
-# Details for object 4 ("sofa")
-Original label for object 4 "sofa" : ""
-Bounding box for object 4 "sofa" (Xmin, Ymin) - (Xmax, Ymax) : (761, 308) - (1117, 537)
-
-# Details for object 5 ("sofa")
-Original label for object 5 "sofa" : ""
-Bounding box for object 5 "sofa" (Xmin, Ymin) - (Xmax, Ymax) : (69, 362) - (570, 747)
-
-# Details for object 6 ("chair")
-Original label for object 6 "chair" : ""
-Bounding box for object 6 "chair" (Xmin, Ymin) - (Xmax, Ymax) : (335, 360) - (430, 489)
+# Details for object 3 ("bicycle")
+Original label for object 3 "bicycle" : ""
+Bounding box for object 3 "bicycle" (Xmin, Ymin) - (Xmax, Ymax) : (854, 933) - (2821, 2273)

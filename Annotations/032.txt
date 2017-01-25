@@ -1,0 +1,39 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "PNGImages/032.jpg"
+Image size (X x Y x C) : 2048 x 1536 x 3
+Database : "bzhang70 database"
+Objects with ground truth : 7 { "trafficlight" "trafficlight" "car" "car" "car" "car" "car" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("trafficlight")
+Original label for object 1 "trafficlight" : ""
+Bounding box for object 1 "trafficlight" (Xmin, Ymin) - (Xmax, Ymax) : (843, 710) - (937, 845)
+
+# Details for object 2 ("trafficlight")
+Original label for object 2 "trafficlight" : ""
+Bounding box for object 2 "trafficlight" (Xmin, Ymin) - (Xmax, Ymax) : (1093, 737) - (1145, 867)
+
+# Details for object 3 ("car")
+Original label for object 3 "car" : ""
+Bounding box for object 3 "car" (Xmin, Ymin) - (Xmax, Ymax) : (956, 1077) - (1140, 1252)
+
+# Details for object 4 ("car")
+Original label for object 4 "car" : ""
+Bounding box for object 4 "car" (Xmin, Ymin) - (Xmax, Ymax) : (753, 1176) - (848, 1225)
+
+# Details for object 5 ("car")
+Original label for object 5 "car" : ""
+Bounding box for object 5 "car" (Xmin, Ymin) - (Xmax, Ymax) : (1168, 1127) - (1334, 1243)
+
+# Details for object 6 ("car")
+Original label for object 6 "car" : ""
+Bounding box for object 6 "car" (Xmin, Ymin) - (Xmax, Ymax) : (1338, 1118) - (1612, 1288)
+
+# Details for object 7 ("car")
+Original label for object 7 "car" : ""
+Bounding box for object 7 "car" (Xmin, Ymin) - (Xmax, Ymax) : (1607, 1095) - (2018, 1315)

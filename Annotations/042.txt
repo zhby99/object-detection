@@ -1,0 +1,23 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "PNGImages/042.jpg"
+Image size (X x Y x C) : 2048 x 1459 x 3
+Database : "bzhang70 database"
+Objects with ground truth : 3 { "cow" "cow" "cow" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("cow")
+Original label for object 1 "cow" : ""
+Bounding box for object 1 "cow" (Xmin, Ymin) - (Xmax, Ymax) : (734, 568) - (1206, 1045)
+
+# Details for object 2 ("cow")
+Original label for object 2 "cow" : ""
+Bounding box for object 2 "cow" (Xmin, Ymin) - (Xmax, Ymax) : (1367, 836) - (1961, 1338)
+
+# Details for object 3 ("cow")
+Original label for object 3 "cow" : ""
+Bounding box for object 3 "cow" (Xmin, Ymin) - (Xmax, Ymax) : (503, 913) - (748, 1066)

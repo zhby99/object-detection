@@ -1,0 +1,23 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "PNGImages/028.jpg"
+Image size (X x Y x C) : 1024 x 1024 x 3
+Database : "bzhang70 database"
+Objects with ground truth : 3 { "giraffe" "zebra" "zebra" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("giraffe")
+Original label for object 1 "giraffe" : ""
+Bounding box for object 1 "giraffe" (Xmin, Ymin) - (Xmax, Ymax) : (120, 95) - (419, 724)
+
+# Details for object 2 ("zebra")
+Original label for object 2 "zebra" : ""
+Bounding box for object 2 "zebra" (Xmin, Ymin) - (Xmax, Ymax) : (157, 721) - (459, 1002)
+
+# Details for object 3 ("zebra")
+Original label for object 3 "zebra" : ""
+Bounding box for object 3 "zebra" (Xmin, Ymin) - (Xmax, Ymax) : (566, 733) - (875, 990)

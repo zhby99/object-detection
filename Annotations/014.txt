@@ -1,31 +1,59 @@
 # PASCAL Annotation Version 1.00
 
 Image filename : "PNGImages/014.jpg"
-Image size (X x Y x C) : 1920 x 1080 x 3
+Image size (X x Y x C) : 2144 x 1424 x 3
 Database : "bzhang70 database"
-Objects with ground truth : 5 { "tvmonitor" "sofa" "sofa" "sofa" "diningtable" }
+Objects with ground truth : 12 { "bicycle" "bicycle" "car" "car" "car" "car" "car" "car" "person" "car" "car" "car" }
 
 # Note that there might be other objects in the image
 # for which ground truth data has not been provided.
 
 # Top left pixel co-ordinates : (1, 1)
 
-# Details for object 1 ("tvmonitor")
-Original label for object 1 "tvmonitor" : ""
-Bounding box for object 1 "tvmonitor" (Xmin, Ymin) - (Xmax, Ymax) : (786, 197) - (1321, 512)
+# Details for object 1 ("bicycle")
+Original label for object 1 "bicycle" : ""
+Bounding box for object 1 "bicycle" (Xmin, Ymin) - (Xmax, Ymax) : (299, 480) - (1174, 1252)
 
-# Details for object 2 ("sofa")
-Original label for object 2 "sofa" : ""
-Bounding box for object 2 "sofa" (Xmin, Ymin) - (Xmax, Ymax) : (1361, 512) - (1945, 1003)
+# Details for object 2 ("bicycle")
+Original label for object 2 "bicycle" : ""
+Bounding box for object 2 "bicycle" (Xmin, Ymin) - (Xmax, Ymax) : (1208, 438) - (1436, 771)
 
-# Details for object 3 ("sofa")
-Original label for object 3 "sofa" : ""
-Bounding box for object 3 "sofa" (Xmin, Ymin) - (Xmax, Ymax) : (153, 440) - (772, 865)
+# Details for object 3 ("car")
+Original label for object 3 "car" : ""
+Bounding box for object 3 "car" (Xmin, Ymin) - (Xmax, Ymax) : (408, 480) - (487, 551)
 
-# Details for object 4 ("sofa")
-Original label for object 4 "sofa" : ""
-Bounding box for object 4 "sofa" (Xmin, Ymin) - (Xmax, Ymax) : (-2, 342) - (405, 632)
+# Details for object 4 ("car")
+Original label for object 4 "car" : ""
+Bounding box for object 4 "car" (Xmin, Ymin) - (Xmax, Ymax) : (487, 501) - (561, 559)
 
-# Details for object 5 ("diningtable")
-Original label for object 5 "diningtable" : ""
-Bounding box for object 5 "diningtable" (Xmin, Ymin) - (Xmax, Ymax) : (834, 581) - (1241, 871)
+# Details for object 5 ("car")
+Original label for object 5 "car" : ""
+Bounding box for object 5 "car" (Xmin, Ymin) - (Xmax, Ymax) : (635, 501) - (729, 555)
+
+# Details for object 6 ("car")
+Original label for object 6 "car" : ""
+Bounding box for object 6 "car" (Xmin, Ymin) - (Xmax, Ymax) : (991, 501) - (1070, 542)
+
+# Details for object 7 ("car")
+Original label for object 7 "car" : ""
+Bounding box for object 7 "car" (Xmin, Ymin) - (Xmax, Ymax) : (1080, 484) - (1154, 538)
+
+# Details for object 8 ("car")
+Original label for object 8 "car" : ""
+Bounding box for object 8 "car" (Xmin, Ymin) - (Xmax, Ymax) : (1282, 492) - (1357, 551)
+
+# Details for object 9 ("person")
+Original label for object 9 "person" : ""
+Bounding box for object 9 "person" (Xmin, Ymin) - (Xmax, Ymax) : (1623, 509) - (1673, 580)
+
+# Details for object 10 ("car")
+Original label for object 10 "car" : ""
+Bounding box for object 10 "car" (Xmin, Ymin) - (Xmax, Ymax) : (1559, 513) - (1613, 555)
+
+# Details for object 11 ("car")
+Original label for object 11 "car" : ""
+Bounding box for object 11 "car" (Xmin, Ymin) - (Xmax, Ymax) : (1673, 501) - (1752, 551)
+
+# Details for object 12 ("car")
+Original label for object 12 "car" : ""
+Bounding box for object 12 "car" (Xmin, Ymin) - (Xmax, Ymax) : (1801, 497) - (1959, 559)
